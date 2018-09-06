@@ -1,4 +1,4 @@
-# articles_Dave_Ludwig
+# articles
 
 This is the place I start record my writings uncategorized starting from Sept. 2018.
 
