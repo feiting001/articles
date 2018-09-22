@@ -39,7 +39,7 @@
 李敖  《李敖有话说》 中国友谊出版公司
 
 
-### ** 2012年12月为王立志的课程所写读书报告。**
+### **本文是2012年12月为王立志的课程所写读书报告。**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ2ODc4NThdfQ==
+eyJoaXN0b3J5IjpbLTIwODEzODEzMThdfQ==
 -->
