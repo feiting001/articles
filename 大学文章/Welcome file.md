@@ -3,143 +3,20 @@
 
 
 ## 内容摘要
+如果不知真理，那就去外面看看是否有漏风口。《野火集》没有让我有知识的增长，但提醒了我要怎么样坚持理性的和怀疑精神的思考：破旧是必须的，但破旧和立新却往往不能成为最亲密的伙伴。如果不能立新则破旧往往带来更大的破坏，一如中国历来之革命。一把野火烧过之后，灰烬不该全部扫除干净，因为之后的森林是要长在这肥沃的灰烬之上的。
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+## 一、我的精神家园
+在这个神圣而威严的国度，一介草民想要知道真理似乎是不太容易的。每一个生于革命年代的热血青年都难免因激情过剩，挥舞的拳头朝上，而真理在下，无人视之。对于90后而言，生活上没见过吃不饱饭的大事，政治上没见过闹革命的大事，却对此丝毫不屑，小生各自游荡网络之中自为其乐，对于寻找真理似乎并无裨益。而数字化的信息是堆砌的泡沫，欲在其中找寻真理恰似缘木求鱼。
 
-## Create files and folders
+如此而言，则至少这一代没有谁能有幸与真理及肩了。也有可能是真理不一定有，就像神明一样，不能自明，也不能他明。但是这并不影响蒙昧的人们寻找真理，就像人们追逐宗教的自由一样。我总会把追求自由当作我现阶段追求真理的目标（显然这总会成为笑柄，然而我并不在意）。这自由于我却并不清晰，即到底什么是自由，为什么要自由，自由了会怎么样，不自由又会怎么样，这样子的追逐是否有价值，代价会是什么。好在我并不急于知道这一切，人的一生就是这样一个探索的过程，虽然结果常是无谓的尝试。我从未知真理，但作为一个能独立思考的个体，我绝不放弃怀疑与思考的机会。
+## 二、问题与现状
+<![endif]-->
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+以上是我在读《野火集》之前的精神状态，更确切的说是我在知道该有一条路能走的好却看到了一片凌乱无序的灌木丛的时候的状态。按照许章润的说法台湾于七十年代末进入“训政时期”，而大陆则在近几年才渐离“军政时期”，那么台湾20多年前的社会状态对现今迷茫的大陆人民来说是有所借鉴的，我们走过的和即将走过的迷茫是台湾民众已经淡忘的过去——在龙应台笔下，工业废水问题、环保问题、交通问题、有毒食品问题、、社会道德的败坏、民众对权威的缄默、民主问题等等，在台湾无处不是，而一个大陆人在只知作品不知作者的情况下会以为她嘲讽的对象即是中国大陆——换言之，二十多年前的台湾，恰恰是现在的中国大陆。那么试读《野火集》自然有很重要的现实意义。
 
-## Switch to another file
+能喊出“中国人，你为什么不生气”可以是一个外表柔弱但内心坚强的女子——能柔情写出《亲爱的安德烈》，却也刚劲的写出《野火集》。她这一把火在台湾烧的很旺，虽屡遭禁毁，但一月再印二十四版还是证明了她对台湾青年正能量的影响。她勇敢的喊出反对集权、要求民主，但也深沉的思考是否否定的否定即是肯定，是否打碎了旧的事物就一定能带来新的东西——如革命之于中国常只能流血却难以带来新的血液。
 
-All your files are listed in the file explorer. You can switch from one to another by clicking a file in the list.
-
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
-
-
-# Synchronization
-
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
-
-There are two types of synchronization and they can complement each other:
-
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
-
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
-
-## Open a file
-
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
-
-## Save a file
-
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
-
-## Synchronize a file
-
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
-
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
-
-## Manage file synchronization
-
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
-
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
-
-
-# Markdown extensions
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
-
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
-
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+她提出的这一问题常常被革命者忽略：当你大声呐喊社会腐朽、集权落后的时候，是否能带来一种新的东西，保证社会的腐朽、集权的落后是必然不会重新肆虐人间的？无数的历史经验表明，否定的否定总是不能成为肯定。反对者大声喊执政者鱼肉人民、消极无为滚下去！可是当他们成了执政党呢，情况却毫无改善，因为他们并没有承诺会改变什么，他们要求的只是执政者滚下去，他们成为主人而已。斗地主之后是全民都能分的一块好地还是新的地主来享有旧地主的利益呢？把民众的蒙眼布掀开之后，是带领他们到囚笼外面呼吸新鲜空气还是花言巧语用另一种颜色的蒙眼布遮上他们的眼睛再把他们关进囚笼？中国的革命往往是叫醒众人，打破一切，连保障自己生存的锅碗瓢盆都一齐打破，好像有神明将救乱世一般，丝毫不用往后再想一步；坐等旧王朝、旧制度破灭的时候真以为自己成了主人，殊不知“当家”和“做主”并不一定能总是连在一起。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjAzOTA1N119
+eyJoaXN0b3J5IjpbNjY4MDI2MDI3XX0=
 -->
