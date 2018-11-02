@@ -1,4 +1,4 @@
-## Mastering the Market Cycles
+# Mastering the Market Cycles
   
 
 -   The most important thing is being attentive to cycles. Or it is the same important as other 19 things in The Most Important thing.
@@ -20,10 +20,9 @@
 -   Reading Peter Bernstein, John Kenneth Galbraith, Nassim Nicholas Taleb and Charlie Ellis, Seth Klarman, Charlie Munger, Warren Buffett, Bruce Newberg, Michael Milken, Jacob Rothschild, Todd Combs, Roger Altman, Joel Greenblatt, Peter Kaufman and Doug Kass.
     
 
-----------
 
 
-1.  Why study cycles
+## 1.  Why study cycles
     
 
 -   Warren Buffett once told me about his two criteria for a desirable piece of information: it has to be important, and it has to be knowable. macro does matter, but very few people can master it. For most, it’s just not knowable.
@@ -43,5 +42,5 @@
 -   One of the key words required if one is to understand the reasons for studying cycles is “tendencies.”
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTk5NzYyMl19
+eyJoaXN0b3J5IjpbLTE5OTc4ODg1NTMsMTk4NTk5NzYyMl19
 -->
